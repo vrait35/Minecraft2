@@ -1,0 +1,7 @@
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\bin\Debug\Minecraft2.exe.config
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\bin\Debug\Minecraft2.exe
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\bin\Debug\Minecraft2.pdb
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\obj\Debug\Minecraft2.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\obj\Debug\Minecraft2.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\obj\Debug\Minecraft2.exe
+C:\Users\anuar\source\repos\Minecraft2\Minecraft2\obj\Debug\Minecraft2.pdb
